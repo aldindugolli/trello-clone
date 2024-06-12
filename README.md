@@ -10,8 +10,6 @@
   - [4. **Start the application**](#4-start-the-application)
 - [What is next?](#Whats-next)
 - [Tech Stack](#tech-stacks)
-- [Support](#support)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
