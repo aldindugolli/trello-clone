@@ -1,14 +1,5 @@
 # trello-clone ![Build status](https://github.com/knowankit/trello-clone/actions/workflows/main.yml/badge.svg)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-![Trello clone](https://github.com/knowankit/trello-clone/blob/develop/demo.gif)
-<p align="center">
-  <a href="https://twitter.com/knowankit">
-    <img alt="Twitter: Ankit Kumar" src="https://img.shields.io/twitter/follow/knowankit.svg?style=social" target="_blank" />
-  </a>
-</p>
-
 - [Overview](#overview)
 - [Features](#features)
 - [Requirements](#requirements)
