@@ -77,24 +77,9 @@ Install docker on your machine and start it
 - Mongo Atlas for production DB
 - Chakra UI library
 
-## Support
-
-Reach out to the maintainer at one of the following places:
-
-- [Portfolio](https://knowankit.com)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/knowankit)
-
 ## Contributing
 
 All contributions are welcome!
-
-
-## Other interesting repositories
-
-- [My Portfolio](https://github.com/knowankit/knowankit.com)
-- [React bubble effect button](https://github.com/knowankit/react-bubbly-effect-button)
-- [Particle text effect](https://github.com/knowankit/particle-text-effect)
 
 ## License
 
