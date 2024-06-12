@@ -89,13 +89,7 @@ Reach out to the maintainer at one of the following places:
 
 All contributions are welcome!
 
-### Contributors
 
-<a href="https://github.com/knowankit/trello-clone/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=knowankit/trello-clone" />
-</a>
-
-Made with [contributors-img](https://contrib.rocks).
 ## Other interesting repositories
 
 - [My Portfolio](https://github.com/knowankit/knowankit.com)
